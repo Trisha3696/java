@@ -1,0 +1,19 @@
+import java.io.*;
+class Arr{
+public static void main(String args[]){
+int[][] a=new int[2][];
+int[][] b=new int[];
+int[][] c=new int[][];
+int[][] d=new int[][2];
+int[][] e=new int[];
+int[] f=new int[];
+int[] g=new int[2];
+System.out.println(a);
+System.out.println(b);
+System.out.println(c);
+System.out.println(d);
+System.out.println(e);
+System.out.println(f);
+System.out.println(g);
+}
+}
