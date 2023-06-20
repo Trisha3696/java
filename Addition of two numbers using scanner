@@ -1,0 +1,14 @@
+import java.util.Scanner;
+import java.io.*;
+
+class Scanner{
+public static void main(String args[]){
+     Scanner S = new Scanner(System.in);
+     System.out.println("enter a");
+     int a=S.nextInt();
+     System.out.println("enter b");
+     float b=S.nextFloat();
+     float c=a+b;
+     System.out.println(c);
+     }
+     }     
