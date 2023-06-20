@@ -1,0 +1,10 @@
+import java.io.*;
+class Inteliterals{
+public static void main(String args[]){
+int a=0789;
+int b=10L;
+int c=0XFace;
+int d=0xcat;
+System.out.println(a + " " + b + " " + c + " " + d + " ");
+}
+}
