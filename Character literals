@@ -1,0 +1,10 @@
+import java.io.*;
+class Charliterals{
+public static void main(String args[]){
+char a='ab';
+char b=a;
+char c=97;
+
+System.out.println( a + " " + b + " " + c + " ");
+}
+}
