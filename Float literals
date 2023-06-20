@@ -1,0 +1,10 @@
+import java.io.*;
+class Floatliterals{
+public static void main(String args[]){
+float a= 12345.6789;
+float b= 123.456f;
+double c= 123.456;
+double d= 1.2*e^3;
+System.out.println( a + " " + b + " " + c + " " + d + " ");
+}
+}
